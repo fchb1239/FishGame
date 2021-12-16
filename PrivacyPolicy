@@ -1,9 +1,11 @@
 Privacy Policy:
-Last updated: November, 29, 2021
+Last updated: December, 16, 2021
 
 Definitions:
 
 Hardware ID: The unique ID that is on your headset.
+
+IP address: Uniquie string of characters that your device uses to send Internet Protocols.
 
 Headset: The device you are running the game on.
 
@@ -11,6 +13,12 @@ I: The developer.
 
 Use of data:
 
-I collect a small part of your hardware ID - it's being used for authentication until i get a better system set up.
+I get your hardware ID for authentication - I cannot see it as far as I know.
 
-I am networking your head and both hand positions and rotation including your microphone (used for voice chat), you can disable the microphone in the prompt that comes you when you start the game for the first time.
+However I do get to see your IP address - only in certain instances. This is used for IP bans if a user is bypassing the ban set on their account.
+
+I am networking your head and hands position and rotation. I am also networking your microphone - you can disable the microphone on the prompt that appears first time you start the game.
+
+
+
+I will not sell or distribute data about an individual person unless it's a legal matter.
